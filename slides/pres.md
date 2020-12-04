@@ -4,9 +4,7 @@ title: Documentación como Código
 layout: default
 ---
 
-# Documentación como Código
-
-## Introducción
+# Introducción
 
 ## ¿Qué es Doc as Code?
 
@@ -15,6 +13,7 @@ layout: default
 * Archivos en texto plano (`Markdown`)
 * Mediante colaboración y revisiones de código
 * Implementando pruebas automatizadas (estilo, ortografía, links/imágenes)
+
 ---
 
 ## Ventajas
@@ -26,3 +25,4 @@ layout: default
 * Validación de estilo y standards de escritura
 * URL's e imágenes siempre funcionando.
 
+---
