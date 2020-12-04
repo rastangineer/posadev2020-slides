@@ -1,23 +1,30 @@
 ---
-title: "Documentación como Código"
-author: Enrique Cuevas
-date: December 05, 2020
+title: "Habits"
+author: John Doe
+date: March 22, 2005
+output: revealjs::revealjs_presentation
 ---
 
-# Introducción
+# In the morning
 
-## ¿Qué es Doc as Code?
+## Getting up
 
-* A través de `issues/merge` requests
-* Usando control de versiones (Git)
-* Archivos en texto plano (`Markdown`)
-* Mediante colaboración y revisiones de código
-* Implementando pruebas automatizadas (estilo, ortografía, links/imágenes)
+- Turn off alarm
+- Get out of bed
 
-## Vertical
+## Breakfast
 
-vertical
+- Eat eggs
+- Drink coffee
 
-## Slide ultimo
+# In the evening
 
-ultimo
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
