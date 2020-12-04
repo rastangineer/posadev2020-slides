@@ -66,11 +66,12 @@
 
 3. Revisar `gitlab-ci.yml`
 4. Edit `config.toml`
+   * Agregar
 
-   ```toml
-   baseurl = "https://rastangineer.gitlab.io/asistente/"
-   title = "Asistente"
-   ```
+     ```toml
+     baseurl = "https://rastangineer.gitlab.io/asistente/"
+     title = "Asistente"
+     ```
 
 --
 
