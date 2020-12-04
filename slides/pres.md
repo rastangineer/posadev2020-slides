@@ -2,7 +2,6 @@
 title: "Documentación como Código"
 author: Enrique Cuevas
 date: December 05, 2020
-output: revealjs::revealjs_presentation
 ---
 
 # Introducción
@@ -17,7 +16,8 @@ output: revealjs::revealjs_presentation
 
 ## Vertical
 
+vertical
 
 ## Slide ultimo
 
-> with a quote
+ultimo
