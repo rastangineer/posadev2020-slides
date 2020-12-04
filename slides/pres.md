@@ -1,3 +1,9 @@
+---
+id: dac
+title: Documentación como Código
+layout: default
+---
+
 # Documentación como Código
 
 ## Introducción
@@ -9,8 +15,7 @@
 * Archivos en texto plano (`Markdown`)
 * Mediante colaboración y revisiones de código
 * Implementando pruebas automatizadas (estilo, ortografía, links/imágenes)
-
-
+---
 
 ## Ventajas
 
