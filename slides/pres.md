@@ -1,7 +1,6 @@
 ---
 id: dac
 title: Documentación como Código
-layout: default
 ---
 
 # Introducción
@@ -24,5 +23,3 @@ layout: default
 * Facilita la revisión de los cambios
 * Validación de estilo y standards de escritura
 * URL's e imágenes siempre funcionando.
-
----
