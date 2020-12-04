@@ -1,8 +1,13 @@
-# Documentación como Código
+---
+title: "Documentación como Código"
+author: Enrique Cuevas
+date: December 05, 2020
+output: revealjs::revealjs_presentation
+---
 
-## Introducción
+# Introducción
 
-### ¿Qué es Doc as Code?
+## ¿Qué es Doc as Code?
 
 * A través de `issues/merge` requests
 * Usando control de versiones (Git)
