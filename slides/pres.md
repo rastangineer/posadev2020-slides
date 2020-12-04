@@ -1,8 +1,3 @@
----
-id: dac
-title: Documentación como Código
----
-
 # Introducción
 
 ## ¿Qué es Doc as Code?
