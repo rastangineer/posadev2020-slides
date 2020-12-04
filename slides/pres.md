@@ -1,6 +1,4 @@
-# Introducción
-
-## ¿Qué es Doc as Code?
+## Documentation as Code
 
 * A través de `issues/merge` requests
 * Usando control de versiones (Git)
