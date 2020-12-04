@@ -1,3 +1,8 @@
+---
+author: Enrique Cuevas
+title: 'Doc as Code'
+---
+
 # Introducción
 
 ## ¿Qué es Doc as Code?
