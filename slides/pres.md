@@ -21,7 +21,7 @@
 
 ## Diagrama
 
-![diagrama](diagrama.png)
+![diagrama](/slides/diagrama.png)
 
 ---
 
