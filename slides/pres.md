@@ -90,14 +90,14 @@ Enrique Cuevas
 
 # Crear Proyecto
 
-* Crear repo `asistente` usando **pages/hugo** templates
+* Crear repo `rastasistente` usando **pages/hugo** templates
 * Clonar repo en `vscode` (configurar ssh primero)
 * Abrir `gitlab-ci.yml`
 * Editar `config.toml`
 
    ```toml
-   baseurl = "https://rastangineer.gitlab.io/asistente/"
-   title = "Asistente"
+   baseurl = "https://rastangineer.gitlab.io/rastasistente/"
+   title = "Rastasistente"
    ```
 
 * Revisar `Repo Settings -> Pages` y abrir url.
@@ -123,7 +123,7 @@ Enrique Cuevas
 * ⚠️ El pipeline fallará porque existen algunos archivo `markdown` del tema anterior que no son compatibles con el nuevo tema. Hay que borrarlos
 
   ```log
-  Error: Error building site: "/builds/rastangineer/asistente/content/post/2017-03-20-photoswipe-gallery-sample.md:10:1": failed to extract shortcode: template for shortcode "gallery" not found
+  Error: Error building site: "/builds/rastangineer/rastasistente/content/post/2017-03-20-photoswipe-gallery-sample.md:10:1": failed to extract shortcode: template for shortcode "gallery" not found
   ```
 
 
